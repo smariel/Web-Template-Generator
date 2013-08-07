@@ -1,0 +1,67 @@
+{
+	"folders" : [
+		{
+			"name":"css",
+			"disp":"CSS",
+			"checked":1
+		},
+		{
+			"name":"img",
+			"disp":"Images",
+			"checked":1
+		},
+		{
+			"name":"js",
+			"disp":"Javascript",
+			"checked":1
+		},
+		{
+			"name":"fonts",
+			"disp":"Fonts",
+			"checked":0
+		}
+	],
+	
+	"tools" : {
+		"jquery" : {
+			"disp":"jQuery",
+			"checked":1,
+			"types":["js"],
+			"site":"http://jquery.com/",
+			"url":"http://code.jquery.com/jquery-latest.min.js"
+		},
+		"bootstrap" : {
+			"disp":"Bootstrap",
+			"checked":1,
+			"types":["js", "css"],
+			"site":"http://getbootstrap.com/",
+			"url":"local_tools/bootstrap.zip.php"	
+		},
+		"less" : {
+			"disp":"LESS",
+			"checked":1,
+			"types":["js"],
+			"site":"http://lesscss.org/",
+			"url":"local_tools/less.min.js.php"
+		},
+		"prefixfree" : {
+			"disp":"Prefixfree",
+			"checked":1,
+			"types":["js"],
+			"site":"http://leaverou.github.io/prefixfree/",
+			"url":"https://raw.github.com/LeaVerou/prefixfree/gh-pages/prefixfree.min.js"
+		},
+		"main_css" : {
+			"disp":"Main CSS file",
+			"checked":1,
+			"types":["css"],
+			"url":"local_tools/main_style.css"
+		},
+		"main_js":{
+			"disp":"Main javascript file",
+			"checked":1,
+			"types":["js"],
+			"url":"local_tools/main_script.js"
+		}
+	}
+}
