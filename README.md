@@ -1,5 +1,4 @@
 #Web-Template-Generator
-#======================
 
 Creating a new web project by donwloading a ZIP
 [See demo here](http://dev.otmax.fr/WebTemplateGenerator/)
