@@ -29,4 +29,5 @@ The script only understand JS and CSS. But there is 3 ways to add them :
 * Using a URL to a .js.php or .css.php file that will be executed to generate a css or a js
 
 Note for ZIP files : if there is a XXX.js and a XXX.min.js, the script will only include the XXX.min.js
+
 Note for PHP files : it is sometime usefull to create a script that will analyse a web page to download the latest version of the framework. You can look at the less.min.js.php file.
